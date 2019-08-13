@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version='1.0'>
+<head>
+<title>Player FM Feeds from Topgold FM</title>
+<dateCreated>August 13, 2019 21:28</dateCreated>
+<dateModified>August 13, 2019 21:28</dateModified>
+</head>
+<body>
+<outline text="Software Engineering Radio - The Podcast for Professional Software Developers" type="rss" xmlUrl="http://feeds.feedburner.com/se-radio"  htmlUrl="https://www.se-radio.net" />
+<outline text="The Daily" type="rss" xmlUrl="http://rss.art19.com/the-daily"  htmlUrl="https://www.nytimes.com/the-daily" />
+<outline text="The New Yorker Radio Hour" type="rss" xmlUrl="http://feeds.wnyc.org/newyorkerradiohour"  htmlUrl="https://www.wnycstudios.org/podcasts/tnyradiohour" />
+<outline text="Stay Tuned with Preet" type="rss" xmlUrl="https://rss.art19.com/stay-tuned-with-preet"  htmlUrl="http://cafe.com" />
+<outline text="It&#39;s A Thing" type="rss" xmlUrl="http://feeds.feedburner.com/itsathing/ccog"  htmlUrl="http://www.itsathing.me/" />
+<outline text="Stuff You Missed in History Class" type="rss" xmlUrl="https://feeds.megaphone.fm/stuffyoumissedinhistoryclass"  htmlUrl="https://www.missedinhistory.com/" />
+<outline text="FiremanRich On Anchor Audio" type="rss" xmlUrl="https://anchor.fm/s/994580/podcast/rss"  htmlUrl="https://anchor.fm/firemanrich" />
+<outline text="Chips with everything - The Guardian" type="rss" xmlUrl="https://www.theguardian.com/technology/series/chips-with-everything/podcast.xml"  htmlUrl="https://www.theguardian.com/technology/series/chips-with-everything" />
+<outline text="Recode Decode" type="rss" xmlUrl="http://feeds.feedburner.com/recode-decode"  htmlUrl="https://www.recode.net/recode-decode-podcast-kara-swisher" />
+<outline text="This American Life" type="rss" xmlUrl="http://feed.thisamericanlife.org/talpodcast"  htmlUrl="https://www.thisamericanlife.org" />
+<outline text="Fryed Oreo" type="rss" xmlUrl="https://anchor.fm/s/99050c/podcast/rss"  htmlUrl="https://anchor.fm/fryedoreo" />
+<outline text="adactio on Huffduffer" type="rss" xmlUrl="https://huffduffer.com/adactio/rss"  htmlUrl="https://huffduffer.com/" />
+<outline text="Triangulation (MP3)" type="rss" xmlUrl="http://feeds.twit.tv/tri.xml"  htmlUrl="https://twit.tv/shows/triangulation" />
+<outline text="Radiolab" type="rss" xmlUrl="http://feeds.wnyc.org/radiolab"  htmlUrl="https://www.wnycstudios.org/podcasts/radiolab/projects/podcasts" />
+<outline text="Buzz Burbank News and Comment" type="rss" xmlUrl="http://buzzburbank.libsyn.com/rss"  htmlUrl="http://www.relmnetwork.com" />
+<outline text="Freakonomics Radio" type="rss" xmlUrl="https://rss.art19.com/freakonomics-radio"  htmlUrl="http://freakonomics.com/" />
+<outline text="Lyrical Audio Candy Tour" type="rss" xmlUrl="https://anchor.fm/s/333045c/podcast/rss"  htmlUrl="https://anchor.fm/alimoon76" />
+<outline text="Song Exploder" type="rss" xmlUrl="http://feed.songexploder.net/SongExploder"  htmlUrl="http://www.songexploder.net" />
+<outline text="Code Switch" type="rss" xmlUrl="https://www.npr.org/rss/podcast.php?id=510312"  htmlUrl="http://www.npr.org/sections/codeswitch/" />
+<outline text="How to be Sound" type="rss" xmlUrl="http://howtobesound.libsyn.com/rss"  htmlUrl="https://www.rosemarymaccabe.com" />
+<outline text="The Forward" type="rss" xmlUrl="http://theforwardpodcast.libsyn.com/rss"  htmlUrl="http://lancearmstrong.com/podcast" />
+<outline text="This Land" type="rss" xmlUrl="http://feeds.feedburner.com/this-land"  htmlUrl="https://crooked.com/" />
+<outline text="Underway in Ireland" type="rss" xmlUrl="http://www.spreaker.com/show/2720793/episodes/feed"  htmlUrl="https://www.spreaker.com/show/making-creating-and-sharing" />
+<outline text="Inspiration by Design" type="rss" xmlUrl="https://anchor.fm/s/9917cc/podcast/rss"  htmlUrl="https://anchor.fm/andrew-jones" />
+<outline text="Georgie Dee" type="rss" xmlUrl="https://anchor.fm/s/befb68/podcast/rss"  htmlUrl="https://anchor.fm/georgiedee" />
+<outline text="The Boring Talks" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p05t3gr2.rss"  htmlUrl="http://www.bbc.co.uk/programmes/p05t3gr2" />
+<outline text="Cricut Master Design Space with Andrew Jones (non-affiliated)" type="rss" xmlUrl="https://rss.simplecast.com/podcasts/7044/rss"  htmlUrl="https://artisticbrit.com/cricutradio" />
+<outline text="WSJ Tech News Briefing" type="rss" xmlUrl="http://feeds.wsjonline.com/wsj/podcast_wall_street_journal_tech_news_briefing"  htmlUrl="http://www.wsj.com/podcasts" />
+<outline text="Peter Donegan&#39;s posts" type="rss" xmlUrl="http://audioboom.com/users/41219/posts.rss"  htmlUrl="https://audioboom.com/users/41219/posts" />
+<outline text="Adam Curry: Daily Source Code" type="rss" xmlUrl="http://radio-weblogs.com/0001014/categories/dailySourceCode/rss.xml"  htmlUrl="http://radio.weblogs.com/0001014/categories/dailySourceCode/" />
+<outline text="" type="rss" xmlUrl="https://thefutureofphotography.com/thefutureofphotography/mp3"  htmlUrl="" />
+</body>
+</opml>
