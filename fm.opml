@@ -36,6 +36,6 @@
 <outline text="WSJ Tech News Briefing" type="rss" xmlUrl="http://feeds.wsjonline.com/wsj/podcast_wall_street_journal_tech_news_briefing"  htmlUrl="http://www.wsj.com/podcasts" />
 <outline text="Peter Donegan&#39;s posts" type="rss" xmlUrl="http://audioboom.com/users/41219/posts.rss"  htmlUrl="https://audioboom.com/users/41219/posts" />
 <outline text="Adam Curry: Daily Source Code" type="rss" xmlUrl="http://radio-weblogs.com/0001014/categories/dailySourceCode/rss.xml"  htmlUrl="http://radio.weblogs.com/0001014/categories/dailySourceCode/" />
-<outline text="" type="rss" xmlUrl="https://thefutureofphotography.com/thefutureofphotography/mp3"  htmlUrl="" />
+<outline text="The Future of Photography" type="rss" xmlUrl="https://thefutureofphotography.com/thefutureofphotography/mp3"  htmlUrl="https://thefutureofphotography.com/thefutureofphotography/mp3" />
 </body>
 </opml>
